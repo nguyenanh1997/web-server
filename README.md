@@ -1,2 +1,2 @@
 # web-server
-test
+python3 main
